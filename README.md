@@ -1,2 +1,2 @@
-#http://kabirnarang39.github.io/index.html
+#http://kabirnarang39.github.io/
 Responsive Home Page For A WebSite
